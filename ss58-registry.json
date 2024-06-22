@@ -1307,6 +1307,15 @@
       "website": "https://analog.one"
     },
     {
+      "prefix": 12851,
+      "network": "analog-testnet",
+      "displayName": "Analog Testnet",
+      "symbols": ["TANLOG"],
+      "decimals": [12],
+      "standardAccount": "*25519",
+      "website": "https://analog.one"
+    },
+    {
       "prefix": 13116,
       "network": "bittensor",
       "displayName": "Bittensor",
