@@ -1316,6 +1316,15 @@
       "website": "https://analog.one"
     },
     {
+      "prefix": 12852,
+      "network": "analog-develop",
+      "displayName": "Analog Develop",
+      "symbols": ["DANLOG"],
+      "decimals": [12],
+      "standardAccount": "*25519",
+      "website": "https://analog.one"
+    },
+    {
       "prefix": 13116,
       "network": "bittensor",
       "displayName": "Bittensor",
